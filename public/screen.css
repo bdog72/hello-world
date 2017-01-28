@@ -5,30 +5,33 @@ html {
 body {
   margin: 0;
   font: 16px / 1 sans-serif;
-
-
 }
+
 div {
-margin: auto;;
-width: 60%;
-background-color: #0DFFBE;
-color: red;
-border: 1px solid black;
-margin-top: 15px;
-border-radius: 5px;
-
-
+  margin: auto;
+  width: 60%;
+  background-color: blue;
+  color: black;
+  border: 1px solid black;
+  margin-top: 15px;
+  border-radius: 5px;
 }
+
 h1 {
-padding-top: 5px;
-text-align: center;
-
+  padding-top: 5px;
+  text-align: center;
 }
-h1, p, h2{
 
+h1,
+p,
+h2 {
   padding-right: 10px;
   padding-left: 5px;
 }
-li{
-  padding-bottom: 15px;
+
+li {
+    padding-bottom: 15px;
+}
+.red{
+  color:red;
 }
